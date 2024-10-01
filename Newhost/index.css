@@ -55,7 +55,7 @@ nav ul{
     border: 1px solid black;
     display: flex;
     justify-content: space-evenly;
-    background-image: url(../image/banner.png.webp);
+    background-image: url(./image/banner.png.webp);
  }
 
  /* first-sec-text */
@@ -204,7 +204,7 @@ nav ul{
     height: 500px;
     width: 400px;
     border: 1px solid wheat;
-    background-image: url(../image/1.png.webp);
+    background-image: url(./image/1.png.webp);
 }
 
 /* sec-four-img2 */
@@ -212,7 +212,7 @@ nav ul{
     height: 350px;
     width: 400px;
     border: 1px solid wheat;
-    background-image: url(../image/2.png);
+    background-image: url(./image/2.png);
     /* background-repeat: no-repeat; */
     
 }
@@ -222,7 +222,7 @@ nav ul{
     height: 372px;
     width: 400px;
     border: 1px solid wheat;
-    background-image: url(../image/3.png);
+    background-image: url(./image/3.png);
 }
 
 /* sec-four-img4 */
@@ -230,7 +230,7 @@ nav ul{
     height: 500px;
     width: 400px;
     border: 1px solid wheat;
-    background-image: url(../image/4.png.webp);
+    background-image: url(./image/4.png.webp);
 }
 
 /* fourth-sec-button */
@@ -271,7 +271,7 @@ nav ul{
 .sixth-sec{
     /* height: 500px; */
     width: 100%;
-    background-image: url(../image/banner.png.webp);
+    background-image: url(./image/banner.png.webp);
     /* display: flex; */
     /* gap: 20px; */
 
